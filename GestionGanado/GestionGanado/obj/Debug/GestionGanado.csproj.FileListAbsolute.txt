@@ -1,0 +1,32 @@
+C:\Users\ALEXANDER\source\repos\GestionGanado\GestionGanado\bin\Debug\GestionGanado.exe.config
+C:\Users\ALEXANDER\source\repos\GestionGanado\GestionGanado\bin\Debug\GestionGanado.exe
+C:\Users\ALEXANDER\source\repos\GestionGanado\GestionGanado\bin\Debug\GestionGanado.pdb
+C:\Users\ALEXANDER\source\repos\GestionGanado\GestionGanado\obj\Debug\GestionGanado.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\source\repos\GestionGanado\GestionGanado\obj\Debug\GestionGanado.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALEXANDER\source\repos\GestionGanado\GestionGanado\obj\Debug\GestionGanado.lblGestionganado.resources
+C:\Users\ALEXANDER\source\repos\GestionGanado\GestionGanado\obj\Debug\GestionGanado.Properties.Resources.resources
+C:\Users\ALEXANDER\source\repos\GestionGanado\GestionGanado\obj\Debug\GestionGanado.csproj.GenerateResource.cache
+C:\Users\ALEXANDER\source\repos\GestionGanado\GestionGanado\obj\Debug\GestionGanado.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\source\repos\GestionGanado\GestionGanado\obj\Debug\GestionGanado.exe
+C:\Users\ALEXANDER\source\repos\GestionGanado\GestionGanado\obj\Debug\GestionGanado.pdb
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\GestionGanado\GestionGanado\bin\Debug\GestionGanado.exe.config
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\GestionGanado\GestionGanado\bin\Debug\GestionGanado.exe
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\GestionGanado\GestionGanado\bin\Debug\GestionGanado.pdb
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\GestionGanado\GestionGanado\obj\Debug\GestionGanado.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\GestionGanado\GestionGanado\obj\Debug\GestionGanado.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\GestionGanado\GestionGanado\obj\Debug\GestionGanado.lblGestionganado.resources
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\GestionGanado\GestionGanado\obj\Debug\GestionGanado.Properties.Resources.resources
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\GestionGanado\GestionGanado\obj\Debug\GestionGanado.csproj.GenerateResource.cache
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\GestionGanado\GestionGanado\obj\Debug\GestionGanado.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\GestionGanado\GestionGanado\obj\Debug\GestionGanado.exe
+C:\Users\ALEXANDER\OneDrive\SENA\TERCER TRIMESTRE\JHON\ALEXANDER_G\GestionGanado\GestionGanado\obj\Debug\GestionGanado.pdb
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\GestionGanado\GestionGanado\bin\Debug\GestionGanado.exe.config
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\GestionGanado\GestionGanado\bin\Debug\GestionGanado.exe
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\GestionGanado\GestionGanado\bin\Debug\GestionGanado.pdb
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\GestionGanado\GestionGanado\obj\Debug\GestionGanado.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\GestionGanado\GestionGanado\obj\Debug\GestionGanado.lblGestionganado.resources
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\GestionGanado\GestionGanado\obj\Debug\GestionGanado.Properties.Resources.resources
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\GestionGanado\GestionGanado\obj\Debug\GestionGanado.csproj.GenerateResource.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\GestionGanado\GestionGanado\obj\Debug\GestionGanado.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\GestionGanado\GestionGanado\obj\Debug\GestionGanado.exe
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\ALEXANDER_G\GestionGanado\GestionGanado\obj\Debug\GestionGanado.pdb
